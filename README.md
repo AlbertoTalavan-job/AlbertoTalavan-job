@@ -1,4 +1,4 @@
- <img align="right" alt="pic flown away..." src="Asets/ios-develpment-vector.png" width="320" height="320" />
+ <img align="right" alt="pic flown away..." src="Asets/ios-develpment.png" width="320" height="320" />
  
  ### 👋 Hi there!, I’m Alberto Talaván
 
