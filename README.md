@@ -1,17 +1,23 @@
- <img align="right" alt="pic flown away..." src="/Assets/ios-development.png" width="320" height="320" />
+ ### Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
  
- ### 👋 Hi there!, I’m Alberto Talaván
+ I’m **Alberto Talaván:**
 
-- 👨🏼‍💻 I’m an iOS developer from Spain 🇪🇸
-- and this account is only for job purposes.
+- 👨🏼‍💻 passionate iOS developer from Spain 🇪🇸,  
 
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
+- whose little dog currently is enjoying life and taking a lot of siestas 🐶
+
+
+<img align="center" alt="pic flown away..." src="/Assets/ios-development.png?raw=true" width="320" height="320"/>
+
+⚠️ This account exists only for job purposes ⚠️  
+
+&nbsp;  
+&nbsp;  
 
 **Hope you have a great day!**
+
+&nbsp;  
+© Alberto Talaván 2022
 
 <!---
 AlbertoTalavan-job/AlbertoTalavan-job is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
