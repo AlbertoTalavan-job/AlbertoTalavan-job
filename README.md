@@ -2,14 +2,12 @@
  
  I’m **Alberto Talaván:**
 
-- 👨🏼‍💻 passionate iOS developer from Spain 🇪🇸,  
-
-- whose little dog currently is enjoying life and taking a lot of siestas 🐶
+- 👨🏼‍💻 passionate iOS developer from Spain 🇪🇸  
 
 
 <img align="center" alt="pic flown away..." src="/Assets/ios-development.png?raw=true" width="320" height="320"/>
 
-⚠️ This account exists only for job purposes ⚠️  
+⚠️ This account only exists for job purposes ⚠️  
 
 &nbsp;  
 &nbsp;  
